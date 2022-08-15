@@ -31,7 +31,7 @@ Work experience
 Skills
 ======
 * Programming languages:
- * Python 
+  * Python 
 * Linux 
   * basic knolwedge of the Linux OS
 
