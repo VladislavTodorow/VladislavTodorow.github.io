@@ -3,7 +3,7 @@ title: "Effects of the photocathode non-uniformity on radon measurements by plas
 collection: publications
 date: 2022-06-20
 venue: ' J Radioanal Nucl Chem'
-paperurl: 'https://doi.org/10.1007/s10967-022-08362-6'
+permalink: 'https://doi.org/10.1007/s10967-022-08362-6'
 authors: <b>Vladislav T. Todorov</b>, Chavdar Ch. Dutsov, Philippe Cassette & Krasimir K. Mitev
 ---
 
