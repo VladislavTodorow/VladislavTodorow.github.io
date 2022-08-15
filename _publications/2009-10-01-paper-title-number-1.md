@@ -2,8 +2,8 @@
 title: "Effects of the photocathode non-uniformity on radon measurements by plastic scintillation spectrometry"
 collection: publications
 date: 2022-06-20
-venue: ' J Radioanal Nucl Chem'
-permalink: 'https://doi.org/10.1007/s10967-022-08362-6'
+venue: 'J Radioanal Nucl Chem'
+link: 'https://doi.org/10.1007/s10967-022-08362-6'
 authors: <b>Vladislav T. Todorov</b>, Chavdar Ch. Dutsov, Philippe Cassette & Krasimir K. Mitev
 ---
 
