@@ -9,51 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+
+<!-- <iframe src="../files/CV_Vladislav_Todorov.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
+
+Download a pdf [here](../files/CV_Vladislav_Todorov.pdf){:target="\_blank"}
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Graduated from [SU Nikolai Katranov](http://katranov.com/), 2017
+* BS in Medical Physics from [Sofia University “St. Kliment Ohridski”](https://www.uni-sofia.bg/index.php/eng), 2021 with excellent mark
+* MS in Medical Physics from [Sofia University "St. Kliment Ohridski"](https://www.uni-sofia.bg/index.php/eng) 2023, (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2020 - present: Part time physicist
+  * Sofia University „St. Kliment Ohridski“, Department of Atomic Physics
+  * Work at the Metrology of Ionizing Radiation Laboratory
+  * Duties: metrological measurements and studies, detector design and development, data analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages:
+ * Python 
+* Linux 
+  * basic knolwedge of the Linux OS
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
