@@ -23,9 +23,9 @@ Work experience
 
 Education
 ======
-* Graduated from [SU Nikolai Katranov](http://katranov.com/), 2017
-* BS in Medical Physics from [Sofia University “St. Kliment Ohridski”](https://www.uni-sofia.bg/index.php/eng), 2021 with excellent mark
 * MS in Medical Physics from [Sofia University "St. Kliment Ohridski"](https://www.uni-sofia.bg/index.php/eng) 2023, (expected)
+* BS in Medical Physics from [Sofia University “St. Kliment Ohridski”](https://www.uni-sofia.bg/index.php/eng), 2021 with excellent mark
+* Graduated from [SU Nikolai Katranov](http://katranov.com/), 2017
 
 Skills
 ======
