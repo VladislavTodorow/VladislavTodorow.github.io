@@ -10,4 +10,4 @@ redirect_from:
 
 # About me
 ------
-I am a Master's student in the Medical Physics programme at [Sofia University 'St. Kliment Ohridski'](https://www.uni-sofia.bg/index.php/eng), [department of Physics](https://www.phys.uni-sofia.bg/). Currently, my work is focused on radiation measurements with organic scintillators and detectors development. Beside attending lectures, I am involved in two research projects at my university. Tinkering with available hardware, making 3D models and printing them are things that I like doing.
+I am a PhD candidate in Nuclear Physics [Sofia University 'St. Kliment Ohridski'](https://www.uni-sofia.bg/index.php/eng), [department of Physics](https://www.phys.uni-sofia.bg/). Currently, my work is focused on radiation measurements with organic scintillators and detectors development. I am also involved in a project focused on radon monitoring in dwellings and workplaces with electronic monitors. Tinkering with available hardware, making 3D models and printing them are things that I like doing.
